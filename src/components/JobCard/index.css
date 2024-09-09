@@ -1,0 +1,53 @@
+.bg1{
+    border-radius: 2px;
+    list-style-type: none;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    border-bottom: 1px solid
+    #09ffee;
+    
+}
+.img1{
+    height: 50px;
+    width: 71px;
+    color: #ad09ff;
+}
+.img2{
+    height: 40px;
+    width: 71px;
+    color: #09efff;
+}
+.img9{
+    height: 40px;
+    width: 71px;
+    color: #591228;
+}
+
+
+.bs1{
+    display: flex;
+    
+    margin-left: 10px;
+}
+
+p{
+    font-family: "Robato";
+    color: #0d0d0df5;
+    font-size: 15px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+.poa{
+    color: #fdfcfe;
+    font-size: 13px;
+    
+}
+.bg2{
+    display: flex;
+    flex-direction: row;
+    align-items: space-between;
+    padding: 10px;
+    margin-bottom: 10px;
+}

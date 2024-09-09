@@ -1,0 +1,28 @@
+.bg2{
+   display: flex;
+   
+}
+.all-jobs-container{
+    margin: 0px;
+    padding: 0px;
+    width: 50%;
+    background-image: url('https://wallpapers.com/images/hd/beautiful-sea-relaxing-blue-beachscape-uvfpwhas94idzeiy.jpg');
+    background-size: cover;
+   
+
+}
+.jobs-list{
+    margin: 0px;
+    padding:0px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    overflow-y: scroll;
+    
+    
+}
+.frame{
+    background-color: #c9f2a4;
+    font-size: 5px;
+}
